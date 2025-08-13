@@ -5,9 +5,9 @@
 pip install PyQt5 pyinstaller  
 
 # 2. Clone repository  
-git clone https://github.com/Try-make-9527/shellcodeForge-
+git clone https://github.com/Try-make-9527/shellcodeForge.git
 
-cd ShellForge-  
+cd ShellForge 
 
 # 3. Run directly  
 python Aries.py  
